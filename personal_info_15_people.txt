@@ -1,0 +1,134 @@
+John Doe
+32
+New York
+USA
+720
+2500.75
+1
+0
+
+Sarah Lee
+28
+Toronto
+Canada
+0
+1800.50
+2
+1
+
+Michael Smith
+45
+London
+UK
+650
+3000.00
+4
+2
+
+Emily Zhang
+37
+Sydney
+Australia
+710
+2200.85
+0
+0
+
+David Chen
+54
+San Francisco
+USA
+600
+3200.45
+3
+1
+
+Maria Garcia
+41
+Madrid
+Spain
+690
+2100.10
+1
+2
+
+Alex Kim
+26
+Seoul
+South Korea
+750
+1700.80
+0
+0
+
+Priya Patel
+29
+Mumbai
+India
+720
+1800.25
+1
+1
+
+James Nguyen
+33
+Hanoi
+Vietnam
+665
+2300.90
+2
+1
+
+Olivia Brown
+39
+Melbourne
+Australia
+640
+2450.35
+5
+2
+
+Liam O'Sullivan
+31
+Dublin
+Ireland
+710
+2750.00
+1
+1
+
+Chen Wei
+48
+Beijing
+China
+660
+3100.60
+3
+0
+
+Emma Johansson
+35
+Stockholm
+Sweden
+680
+1980.75
+1
+0
+
+Lucas Martins
+43
+Rio de Janeiro
+Brazil
+600
+2200.50
+4
+3
+
+Sofia Rossi
+27
+Rome
+Italy
+730
+1850.20
+0
+0
