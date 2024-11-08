@@ -108,7 +108,7 @@ def limiter(score): #Puts a limit on how much credit score a person can have, be
         return score
     return score
 
-text = grabInfo(14) #modify the value inside from 0-14 to index into different people
+text = grabInfo(12) #modify the value inside from 0-14 to index into different people
 print(text)
 score = previousCreditScore(text)
 score = ageFactor(text, score)
